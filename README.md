@@ -1,4 +1,4 @@
-# Analysis of the Hospital Questionnair Dataset
+# Analysis of the Hospital Questionnaire Dataset
 
 
 # Related Shiny app:
